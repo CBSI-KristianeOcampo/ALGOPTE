@@ -2,7 +2,7 @@
     "id":  "3ac1cfdb-6bca-4a5b-926e-573458fec08e",
     "name":  "SampleALGO",
     "publisher":  "kris",
-    "version":  "1.0.0.0",
+    "version":  "1.0.<Major>.<Minor>",
     "brief":  "",
     "description":  "",
     "privacyStatement":  "",
