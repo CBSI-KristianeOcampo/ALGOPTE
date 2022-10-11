@@ -25,7 +25,7 @@
                      }
                  ],
     "resourceExposurePolicy":  {
-                                   "allowDebugging":  true,
+                                   "allowDebugging":  false,
                                    "allowDownloadingSource":  false,
                                    "includeSourceInSymbolFile":  false
                                }
